@@ -3,6 +3,8 @@
 
 # **A u t o Q P G e n &ensp; v2.0**
 
+### **`DEVELOPMENT STATUS`** &ensp; NOT YET STARTED 😐. STILL JUST REFLECTS THE PARENT PROJECT.
+
 #### **`DESCRIPTION`** &ensp; This is the independent version of my B.E. Final Year Project AutoQPGen massively improved in functionality with On-Device AI using Ollama Engine and Responsive Web Design using Streamlit.
 
 ---
