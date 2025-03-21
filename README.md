@@ -1,4 +1,4 @@
-![AutoQPGen_Branding-Logo](https://raw.githubusercontent.com/azuregray/AutoQPGen/main/Assets/AutoQPGen_GitHubSocialMediaCover.png)
+![AutoQPGen_Branding-Logo](https://raw.githubusercontent.com/azuregray/AutoQPGen-2.0/main/Assets/AutoQPGen_GitHubSocialMediaCover.png)
 
 
 # **A u t o Q P G e n &ensp; v2.0**
