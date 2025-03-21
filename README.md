@@ -13,7 +13,7 @@
 **`( GITHUB )`** **`( PIP )`** **`( MARKDOWN )`**  
 **`( SHELL SCRIPTING )`** **`( POWERSHELL )`** **`( PYTORCH )`**  
 **`( TENSORFLOW )`** **`( PDF RENDERING )`** **`( NLP )`**  
-**`( SPACY )`** **`(PDF Structured Extraction)`**
+**`( SPACY )`** **`(PDF Structured Extraction)`**  
 **`(STREAMLIT)`** **`(OLLAMA - On-Device AI)`**
 
 ---
