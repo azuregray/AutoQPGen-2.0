@@ -1,7 +1,7 @@
 ![AutoQPGen_Branding-Logo](https://raw.githubusercontent.com/azuregray/AutoQPGen/main/Assets/AutoQPGen_GitHubSocialMediaCover.png)
 
 
-# **A U T O Q P G E N &ensp; v2.0**
+# **A u t o Q P G e n &ensp; v2.0**
 
 #### **`DESCRIPTION`** &ensp; This is the independent version of my B.E. Final Year Project AutoQPGen massively improved in functionality with On-Device AI using Ollama Engine and Responsive Web Design using Streamlit.
 
