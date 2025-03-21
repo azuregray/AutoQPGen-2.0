@@ -1,0 +1,11 @@
+pdfplumber
+flask
+pathlib
+spacy
+docxtpl
+docx2pdf
+pywin32
+google-generativeai
+tk
+tools
+frontend
